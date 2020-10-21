@@ -4,8 +4,8 @@
 source /pkgscripts-ng/include/pkg_util.sh
 
 package="r8152"
-version="2.12.0-3"
-displayname="RTL8152/RTL8153 driver"
+version="2.14.0"
+displayname="RTL8152/8153/8156 driver"
 maintainer="bb-qq"
 arch="$(pkg_get_platform)"
 description="Realtek RTL8152/RTL8153 Based USB Ethernet Adapters driver."
